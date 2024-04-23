@@ -8,7 +8,6 @@
 <body>
     <h1>Conversor de Moneda</h1>
     <p>Esta aplicación de consola te permite convertir cantidades entre diferentes monedas utilizando tasas de cambio en tiempo real.</p>
-
     <h2>Funcionalidades</h2>
     <ul>
         <li>Consulta las tasas de cambio actualizadas desde una API en línea.</li>
@@ -17,7 +16,6 @@
         <li>Validación de entrada del usuario para garantizar valores válidos.</li>
         <li>Opción de salir del programa cuando el usuario lo desee.</li>
     </ul>
-
     <h2>Uso</h2>
     <p>Para usar esta aplicación, sigue los siguientes pasos:</p>
     <ol>
@@ -31,15 +29,12 @@ java -cp out com.mycompany.conversormonedaalura.ConversorMonedaAlura</code></pre
         <li>Sigue las instrucciones en pantalla para seleccionar monedas, ingresar valores y ver las conversiones realizadas.</li>
         <li>Repite el proceso para realizar nuevas conversiones o selecciona la opción de salir para terminar la aplicación.</li>
     </ol>
-
-
     <h2>Autor</h2>
     <p>Este proyecto fue desarrollado por:</p>
     <ul>
         <li>Nombre: Lucas Fair</li>
         <li>Contacto: fairlucas00@gmail.com</li>
     </ul>
-
     <h2>Licencia</h2>
     <p>Este proyecto está bajo la <a href="LICENSE">Licencia MIT</a>.</p>
 </body>
