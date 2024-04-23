@@ -20,7 +20,7 @@
     <p>Para usar esta aplicación, sigue los siguientes pasos:</p>
     <ol>
         <li>Clona este repositorio en tu máquina local:</li>
-        <pre><code>git clone https://github.com/tu-usuario/conversor-moneda.git</code></pre>
+        <pre><code>git clone https://github.com/LucasEsca/AluraChallengeConversorMoneda</code></pre>
         <li>Accede al directorio del proyecto:</li>
         <pre><code>cd conversor-moneda</code></pre>
         <li>Compila y ejecuta la aplicación:</li>
